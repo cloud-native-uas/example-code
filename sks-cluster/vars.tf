@@ -1,7 +1,7 @@
 variable "exo_secret" {
   type      = string
   sensitive = true
-  default = "your_secret"
+  default   = "your_secret"
 }
 
 variable "exo_key" {

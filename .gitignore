@@ -1,0 +1,3 @@
+/sks-cluster/.terraform.lock.hcl
+/sks-cluster/terraform.tfstate
+/sks-cluster/terraform.tfstate.backup
