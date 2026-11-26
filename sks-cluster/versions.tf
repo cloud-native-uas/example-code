@@ -2,7 +2,7 @@ terraform {
   required_providers {
     exoscale = {
       source  = "exoscale/exoscale"
-      version = "0.59.1"
+      version = "0.78.1"
     }
   }
   backend "s3" {
